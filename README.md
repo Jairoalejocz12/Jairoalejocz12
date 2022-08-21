@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Jairoalejocz12
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning python, html,css,javascript.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jairoalejocz@gmail.com
 
 <!---
